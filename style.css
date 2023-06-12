@@ -1,8 +1,8 @@
 body {
     background:rgb(201, 252, 218)
-    color: 
-    padding: 10px;
-    font-family: arial;
+    color rgb(201, 252, 218)
+    padding; 10px
+    font-family arial
 }
 #all-contents {
   max-width: 800px;
@@ -20,7 +20,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: rgb(220, 248, 229);
+    color: rgb(187, 253, 208);
     flex: 1;
     margin: 0;
 }
@@ -55,7 +55,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px #aafddd; ridge;
+    border: 4pxrgb(255, 253, 224);
     padding: 8px;
 }
 h2, h3 {
@@ -64,7 +64,7 @@ h2, h3 {
 
          /* portfolio styles */
          .content h1 {
-            color: #000000; ridge;
+            color: #000000; ridge:
         }
 
         #portfolio {
@@ -73,14 +73,14 @@ h2, h3 {
         }
 
         #portfolio li {
-            background: #d6f5dd;
+            background: rgb(255, 253, 224);
             padding: 10px;
             border-radius: 10px;
             margin-bottom: 10px;
         }
 
         #portfolio li:hover {
-            background: #d6f5dd;
+            background:rgb(255, 253, 224);
         }
 
         #portfolio a {
