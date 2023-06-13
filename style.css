@@ -20,7 +20,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: rgb(187, 253, 208);
+    color: rgba(9, 208, 243, 0.514);
     flex: 1;
     margin: 0;
 }
